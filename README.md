@@ -10,6 +10,13 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 
 ## Why do we care?
 
+## Demos
+* 24-2200 MHz Spectrum Analyzer [http://gnuradio.org/redmine/projects/gnuradio/wiki]
+* AM/FM Receiver (Nexus 7)
+* Water Meter [http://bemasher.github.io/rtlamr/]
+* ADS-B Beacon [https://github.com/MalcolmRobb/dump1090]
+
+
 | Tuners | Frequency |
 | ------ | --------- |
 | Elonics E4000 | 52 - 2200 MHz with a gap from 1100 MHz to 1250 MHz |
