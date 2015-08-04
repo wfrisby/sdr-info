@@ -15,14 +15,14 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 | Tuners | Frequency |
 | ------ | --------- |
 | Elonics E4000 | 52 - 2200 MHz with a gap from 1100 MHz to 1250 MHz |
-| Rafael Micro R820T | 24 - 1766 MHz |
+| [Rafael Micro R820T](http://www.amazon.com/RTL2832U-Low-Cost-Software-Compatible-Packages/dp/B00SXZDUAQ/) | 24 - 1766 MHz |
 | Rafael Micro R820T2 | 24 - 1766 MHz w/ better sensitivity |
 
 ## Demos
-* 24-2200 MHz Spectrum Analyzer [http://gnuradio.org/redmine/projects/gnuradio/wiki]
+* [24-2200 MHz Spectrum Analyzer] (http://gnuradio.org/redmine/projects/gnuradio/wiki])
 * AM/FM Receiver
-** Nexus 7
-** ARM Chrombook https://github.com/google/radioreceiver
+* * Nexus 7
+* * ARM Chrombook https://github.com/google/radioreceiver
 * Water Meter [http://bemasher.github.io/rtlamr/]
 * ADS-B Beacon [https://github.com/MalcolmRobb/dump1090]
 
