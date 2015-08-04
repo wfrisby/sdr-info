@@ -10,6 +10,8 @@ The RTL-SDR is a very cheap software defined radio that uses a DVB-T TV tuner do
 
 Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U chip can be used as a computer based radio scanner. This sort of scanner capability would have cost hundreds or even thousands of dollars just a few years ago.
 
+[Dongle!](https://cdn.rawgit.com/wfrisby/sdr-info/master/imgs/ezcap_top.svg)
+
 | Tuners | Frequency |
 | ------ | --------- |
 | Elonics E4000 | 52 - 2200 MHz with a gap from 1100 MHz to 1250 MHz |
@@ -24,17 +26,20 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 * Water Meter [http://bemasher.github.io/rtlamr/]
 * ADS-B Beacon [https://github.com/MalcolmRobb/dump1090]
 
-
-
-
 ## Higherend hardware
-
 * http://airspy.com/
 * https://greatscottgadgets.com/hackrf/
 
 ## Open Source SDR Projects
+http://sdr.osmocom.org/trac/wiki/rtl-sdr
 http://gnuradio.org/redmine/projects/gnuradio/wiki
+http://cgit.osmocom.org/cgit/gr-osmosdr/
 http://sdrsharp.com/#sdrsharp
 
+## Live DVD/USB images
+http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioLiveDVD
+http://skywavelinux.com/
+
 ## Where to go from here?
+http://openbsc.osmocom.org/trac/wiki/OsmocomOverview
 http://www.sigidwiki.com/wiki/Signal_Identification_Guide
