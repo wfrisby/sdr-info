@@ -22,11 +22,17 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 * Water Meter [http://bemasher.github.io/rtlamr/]
 * ADS-B Beacon [https://github.com/MalcolmRobb/dump1090]
 
+
+
+
 ## Higherend hardware
 
-http://airspy.com/
-https://greatscottgadgets.com/hackrf/
+* http://airspy.com/
+* https://greatscottgadgets.com/hackrf/
 
 ## Open Source SDR Projects
 http://gnuradio.org/redmine/projects/gnuradio/wiki
 http://sdrsharp.com/#sdrsharp
+
+## Where to go from here?
+http://www.sigidwiki.com/wiki/Signal_Identification_Guide
