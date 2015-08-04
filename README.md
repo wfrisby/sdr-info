@@ -2,7 +2,7 @@
 
 The implementation of modulators, demodulators, and other radio signal processing algorithms in a general programming language. The advent of modern computing allows most of the traditionally hardware radio based components to be implemented in software for a reconfigurable compute unit. This enables rapid protoyping for   signal processing and robust radios products that can reconfigure the signal processing chain on the fly.
 
-![Flow](https://cdn.rawgit.com/wfrisby/sdr-info/imgs/SDR_et_WF.svg)
+![Flow](https://upload.wikimedia.org/wikipedia/commons/2/22/SDR_et_WF.svg)
 
 ## RTL-SDR - a $15 SDR receiver?
 
