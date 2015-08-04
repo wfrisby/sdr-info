@@ -2,6 +2,8 @@
 
 The implementation of modulators, demodulators, and other radio signal processing algorithms in a general programming language. The advent of modern computing allows most of the traditionally hardware radio based components to be implemented in software for a reconfigurable compute unit. This enables rapid protoyping for   signal processing and robust radios products that can reconfigure the signal processing chain on the fly.
 
+[Flow!](imgs/SDR_et_WF.svg)
+
 ## RTL-SDR - a $15 SDR receiver?
 
 The RTL-SDR is a very cheap software defined radio that uses a DVB-T TV tuner dongle based on the RTL2832U chipset. With the combined efforts of Antti Palosaari, Eric Fry and Osmocom it was found that the signal I/Q data could be accessed directly, which allowed the DVB-T TV tuner to be converted into a wideband software defined radio via a new software driver.
