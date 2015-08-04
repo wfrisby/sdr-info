@@ -10,7 +10,7 @@ The RTL-SDR is a very cheap software defined radio that uses a DVB-T TV tuner do
 
 Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U chip can be used as a computer based radio scanner. This sort of scanner capability would have cost hundreds or even thousands of dollars just a few years ago.
 
-[Dongle!](https://cdn.rawgit.com/wfrisby/sdr-info/master/imgs/ezcap_top.jpg)
+![Dongle](https://cdn.rawgit.com/wfrisby/sdr-info/master/imgs/ezcap_top.jpg)
 
 | Tuners | Frequency |
 | ------ | --------- |
