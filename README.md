@@ -43,3 +43,6 @@ http://skywavelinux.com/
 ## Where to go from here?
 http://openbsc.osmocom.org/trac/wiki/OsmocomOverview
 http://www.sigidwiki.com/wiki/Signal_Identification_Guide
+
+## AD RF-Frontends
+http://www.analog.com/en/products/rf-microwave/integrated-transceivers-transmitters-receivers/wideband-transceivers-ic/ad9361.html#product-overview
