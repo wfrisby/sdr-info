@@ -20,6 +20,7 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 | Rafael Micro R820T2 | 24 - 1766 MHz w/ better sensitivity |
 
 ## Demos
+* [Visual DSP introduction] (http://visual-dsp.switchb.org/presentation)
 * [24-2200 MHz Spectrum Analyzer] (http://gnuradio.org/redmine/projects/gnuradio/wiki])
 * AM/FM Receiver
     * Android RLT-SDR [app](https://play.google.com/store/apps/details?id=marto.androsdr2)
