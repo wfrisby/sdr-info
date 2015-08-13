@@ -24,6 +24,8 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 * [24-2200 MHz Spectrum Analyzer] (http://gnuradio.org/redmine/projects/gnuradio/wiki])
 * AM/FM Receiver
     * Android RLT-SDR [app](https://play.google.com/store/apps/details?id=marto.androsdr2)
+       * 99.5 MHz ([RDS](https://en.wikipedia.org/wiki/Radio_Data_System) BPSK station info)
+       * 162.55 MHz (SLC NOAA Weather)
     * Chrome [app](https://github.com/google/radioreceiver)
 * [Water Meter](http://bemasher.github.io/rtlamr/)
 * [ADS-B Beacon](https://github.com/MalcolmRobb/dump1090)
