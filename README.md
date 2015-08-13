@@ -39,9 +39,6 @@ http://sdr.osmocom.org/trac/wiki/rtl-sdr
 http://gnuradio.org/redmine/projects/gnuradio/wiki
 http://cgit.osmocom.org/cgit/gr-osmosdr/
 
-
-
-
 ## Where to go from here?
 http://openbsc.osmocom.org/trac/wiki/OsmocomOverview
 http://www.sigidwiki.com/wiki/Signal_Identification_Guide
