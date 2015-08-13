@@ -21,12 +21,14 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 ## Demos
 * [24-2200 MHz Spectrum Analyzer] (http://gnuradio.org/redmine/projects/gnuradio/wiki])
 * AM/FM Receiver
-* * Nexus 7
-* * ARM Chrombook https://github.com/google/radioreceiver
-* Water Meter [http://bemasher.github.io/rtlamr/]
-* ADS-B Beacon [https://github.com/MalcolmRobb/dump1090]
+* * Android RLT-SDR [app](https://play.google.com/store/apps/details?id=marto.androsdr2)
+* * Chrome [app](https://github.com/google/radioreceiver)
+* (Water Meter)[http://bemasher.github.io/rtlamr/]
+* (ADS-B Beacon)[https://github.com/MalcolmRobb/dump1090]
 
 ## Higherend hardware
+* http://www.ettus.com/product/details/UB210-KIT
+* http://www.ettus.com/product/details/E310-KIT
 * http://airspy.com/
 * https://greatscottgadgets.com/hackrf/
 
