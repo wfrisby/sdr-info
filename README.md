@@ -17,7 +17,7 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 | ------ | --------- |
 | Elonics E4000 | 52 - 2200 MHz with a gap from 1100 MHz to 1250 MHz |
 | [Rafael Micro R820T](http://www.amazon.com/RTL2832U-Low-Cost-Software-Compatible-Packages/dp/B00SXZDUAQ/) | 24 - 1766 MHz |
-| Rafael Micro R820T2 | 24 - 1766 MHz w/ better sensitivity |
+| [Rafael Micro R820T2](https://www.amazon.com/NooElec-NESDR-Mini-RTL2832-Antenna/dp/B00P2UOU72) | 24 - 1766 MHz w/ better sensitivity |
 
 ## Demos
 * [Visual DSP introduction] (http://visual-dsp.switchb.org/presentation)
@@ -36,14 +36,20 @@ Essentially, this means that a cheap $15 TV tuner USB dongle with the RTL2832U c
 * http://airspy.com/
 * https://greatscottgadgets.com/hackrf/
 
+## Non-Free apps
+* [SDR Touch](http://sdrtouch.com/) - This is the one I run on my Android devices
+
 ## Open Source SDR Projects
-http://sdr.osmocom.org/trac/wiki/rtl-sdr
-http://gnuradio.org/redmine/projects/gnuradio/wiki
-http://cgit.osmocom.org/cgit/gr-osmosdr/
+* [GNURadio Live-DVD](http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioLiveDVD) - Just boot this
+* [GNURadio Android](http://gnuradio.org/redmine/projects/gnuradio/wiki/Android) - Haven't tried this yet
+* [SDRSharp](http://airspy.com/?ddownload=3130) - Windows Only
+* [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) - Great command line tools.
+* http://gnuradio.org/redmine/projects/gnuradio/wiki
+* http://cgit.osmocom.org/cgit/gr-osmosdr/
 
 ## Where to go from here?
-http://openbsc.osmocom.org/trac/wiki/OsmocomOverview
-http://www.sigidwiki.com/wiki/Signal_Identification_Guide
+* http://openbsc.osmocom.org/trac/wiki/OsmocomOverview
+* http://www.sigidwiki.com/wiki/Signal_Identification_Guide
 
 ## AD RF-Frontends
 http://www.analog.com/en/products/rf-microwave/integrated-transceivers-transmitters-receivers/wideband-transceivers-ic/ad9361.html#product-overview
